@@ -1,2 +1,2 @@
 # DR-designs.design
-# This a website used to show off my work I hope you enjoy scrolling through it.
+# This is my portfolio website with all my programming and graphic design project.
