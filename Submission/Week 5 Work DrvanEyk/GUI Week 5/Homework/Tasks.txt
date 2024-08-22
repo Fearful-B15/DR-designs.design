@@ -1,0 +1,9 @@
+Learning Outcomes LU3 (Self-Study):
+ 
+Edit and modify artboards.
+Use the Shape Builder tool.
+Add and format text.
+Create and modify swatches.
+Convert text to outlines.
+Use the Color Guide panel to create swatches.
+Use the Pathfinder panel to modify objects.
